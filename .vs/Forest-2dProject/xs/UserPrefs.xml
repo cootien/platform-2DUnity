@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{DBD1338E-C4C0-6820-A138-B3B0BF47A757}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Character/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Script/Toucan.cs" />
+      <File FileName="../Downloads/Forest-2dProject-1/Assets/FlyingTrap.cs" />
+      <File FileName="Assets/Script/Character/DialogueCharacter.cs" />
+      <File FileName="Assets/TextMesh Pro/DialogueTrigger.cs" />
+      <File FileName="Assets/DialogueManager.cs" />
+      <File FileName="Assets/JumpPad.cs" />
+      <File FileName="Assets/Script/Trap.cs" />
+      <File FileName="Assets/Script/Character/PlayerMovement.cs" />
+      <File FileName="Assets/Script/Character/GameManager.cs" Line="80" Column="2" />
+      <File FileName="Assets/Script/CheckPoint.cs" />
+      <File FileName="Assets/Script/Character/PlayerLife.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpingTrap.cs" />
+      <File FileName="Assets/JumpingTrapTest.cs" />
+      <File FileName="Assets/SceneController.cs" />
+      <File FileName="Assets/Script/FlyingTrap.cs" />
+      <File FileName="Assets/Script/Character/FirstShader.mat" />
+      <File FileName="Assets/Script/Character/Firstshader.shadergraph" />
+      <File FileName="Assets/Script/Character/Key.cs" />
+      <File FileName="Assets/Script/Character/Item.cs" />
+      <File FileName="Assets/FallingGround.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Character/InventorySlot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Forest-2dProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Animation" expanded="True" />
+              <Node name="Script" expanded="True">
+                <Node name="Character" expanded="True">
+                  <Node name="Key.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="TextMesh Pro" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5df41e1f-d5df-4b2e-8e22-f12674427603" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mmm/Forest-2dProject/Assets/DialogueManager.cs" relfile="Assets/DialogueManager.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
